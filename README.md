@@ -24,6 +24,3 @@ Configurando o Phishing no Kali Linux
 
 •	URL para clone: http://www.facebook.com
 
-Resultado
-
-![image](https://github.com/Lisasousa19/Cibersecurity---desafio---phishing/assets/168374008/f62d76e2-9865-4b80-87e6-a773f166289d)
